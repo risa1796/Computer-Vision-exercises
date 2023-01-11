@@ -13,3 +13,6 @@ Data can be downloaded from https://www.kaggle.com/datasets/chazzer/smiling-or-n
 -----------
 
 ## 2. 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frisa1796%2FComputer-Vision-exercises&count_bg=%23EFD108&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
