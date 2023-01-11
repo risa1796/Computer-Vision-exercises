@@ -1,4 +1,4 @@
-# Computer-Vision-exercises
+# Computer Vision exercises 📸 🚀
 Practice working with computer vision problems.
 
 ## 1. Binary image classification - 'Smiling or Not' with face data 
