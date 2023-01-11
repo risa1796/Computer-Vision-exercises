@@ -6,7 +6,7 @@ Practice working with computer vision problems.
 #### [🙂🙁 not-/smiling face binary image classification ](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Smile_or_Not-2.ipynb)
 
 📝 After adjusting the parameters for image augmentation I was able to slightly improve the model performance up to validation accuracy of 98%. 
-Lessons learned: My firt attempt with some random parameters seemed not helpful for training the model properly. When i saw the first prediction result,
+Lessons learned: My first attempt with some random parameters seemed not helpful for training the model properly. When i saw the first prediction result,
 faces with dark pixels, especially in the mouth part, are mostly classified wrong. I deleted parameters which disturb the model training and added new parameters like adjusting brightness.. Voila! Always check some preliminary results; it is not a black-box until training the DL model itself! 
 
 
