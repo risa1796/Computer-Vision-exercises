@@ -9,3 +9,7 @@ After adjusting the parameters for image augmentation I was able to slightly imp
 Unfortunately, the test dataset has no labels added for images. So it was unable to use the test dataset. 
 
 Data can be downloaded from https://www.kaggle.com/datasets/chazzer/smiling-or-not-face-data
+
+-----------
+
+## 2. 
