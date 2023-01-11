@@ -7,4 +7,5 @@ https://www.kaggle.com/datasets/chazzer/smiling-or-not-face-data
 After adjusting the parameters for image augmentation I was able to slightly improve the model performance up to validation accuracy of 98%. 
 Unfortunately, the test dataset has no labels added for images. So it was unable to use the test dataset. 
 
+[smile or not smile binary image classification ] (링크)
 
