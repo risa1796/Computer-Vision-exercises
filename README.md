@@ -3,6 +3,8 @@ Practice working with computer vision problems.
 
 ## 1. Binary image classification - 'Smiling or Not' with face data 
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
+
 #### [🙂🙁 not-/smiling face binary image classification ](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Smile_or_Not-2.ipynb)
 
 📝 After adjusting the parameters for image augmentation I was able to slightly improve the model performance up to validation accuracy of 98%. 
