@@ -20,7 +20,7 @@ Data can be downloaded from https://www.kaggle.com/datasets/chazzer/smiling-or-n
 
 ## 2. GAN model for creating abstract art 
 
-coming soon ...
+[📌 Short Intro to GAN Model with MNIST data](https://github.com/risa1796/Computer-Vision-exercises/blob/main/GAN_Intro.ipynb)
 
 
 
