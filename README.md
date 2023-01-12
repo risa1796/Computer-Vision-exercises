@@ -16,7 +16,7 @@ Data can be downloaded from https://www.kaggle.com/datasets/chazzer/smiling-or-n
 
 -----------
 
-## 2. 
+## 2. GAN model for creating abstract art 
 
 coming soon ...
 
