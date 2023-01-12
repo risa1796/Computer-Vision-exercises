@@ -23,7 +23,7 @@ Data can be downloaded from https://www.kaggle.com/datasets/chazzer/smiling-or-n
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 
 Before we move on to GAN model that can create new images resembling abstract art, let's have a glimpse of how a basic GAN model works. 
-Here, we will use a very common dataset for ML and DL : MNIST data (Gray-scale images of digits 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣)
+Here, we will use a very common dataset for ML and DL : MNIST data (Gray-scale images of digits)
 [📌 Short Intro to GAN Model with MNIST data](https://github.com/risa1796/Computer-Vision-exercises/blob/main/GAN_Intro.ipynb)
 
 Data for the second mini exercise can be downloaded from https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
