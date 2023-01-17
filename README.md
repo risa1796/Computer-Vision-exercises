@@ -34,7 +34,7 @@ Data for the second mini exercise can be downloaded from https://www.kaggle.com/
 
 -------------
 
-## 3. (Image Scraping and Multi Image Classification)[https://github.com/risa1796/Computer-Vision-exercises/blob/main/Jewelry_image_classification.ipynb]
+## 3. [Image Scraping and Multi Image Classification](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Jewelry_image_classification.ipynb)
 
 
 
