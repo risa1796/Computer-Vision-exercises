@@ -31,7 +31,7 @@ Data for the second mini exercise can be downloaded from https://www.kaggle.com/
 
 -----------
 
-## 3. Is your sitting position good? 
+## 3. Do you have a terrible posture? 
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 
