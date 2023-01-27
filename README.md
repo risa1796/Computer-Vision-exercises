@@ -29,7 +29,7 @@ Here, we will use a very common dataset for ML and DL : MNIST data (Gray-scale i
 
 Data for the second mini exercise can be downloaded from https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
 
-#### 3. Is your sitting position good? 
+## 3. Is your sitting position good? 
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 
