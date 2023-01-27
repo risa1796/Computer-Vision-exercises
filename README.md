@@ -29,7 +29,9 @@ Here, we will use a very common dataset for ML and DL : MNIST data (Gray-scale i
 
 Data for the second mini exercise can be downloaded from https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
 
-#### 🖼👩🏻‍🎨
+#### 3. Is your sitting position good? 
+
+For this exercise, I started with collecting images and labeled them by my own. Good Dataset is the key! 
 
 
 -------------
