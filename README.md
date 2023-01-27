@@ -35,7 +35,7 @@ Data for the second mini exercise can be downloaded from https://www.kaggle.com/
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
 
-For this exercise, I started with collecting images and labeled them by my own. Good Dataset is the key! 
+For this exercise, I started with collecting images and labeled them on my own. Good Dataset is the key! 
 
 [🐢 거북목 AI 자가진단](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Sitting_Position.ipynb)
 
